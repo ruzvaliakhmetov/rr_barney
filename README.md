@@ -13,11 +13,17 @@ RR Barney is an evolving project, and its development will continue to enhance b
 - **Cyrillic improvements**: at this point, Cyrillic is not perfect. Continuous refinement and improvement of the font's design will be carried out.
 
 ## Language support
-The characters set covers Scandinavian Latin and Turkic Cyrillic alphabets:
+The characters set covers Nordic Latin and Turkic Cyrillic alphabets:
 - Bashkir, Danish, English, Finnish, Icelandic, Kazakh, Norwegian, Russian, Swedish, Tatar & Turkish
 
 ## License
 RR Barney has been distributed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL
+
+
+## Download
+You can download the fonts directly by clicking the buttons below:
+[![Download TTF](https://img.shields.io/badge/Download-TTF-blue)](https://github.com/ruzvaliakhmetov/rr_barney/raw/master/fonts/ttf/RRBarney-Rough.ttf)
+[![Download OTF](https://img.shields.io/badge/Download-OTF-blue)](https://github.com/ruzvaliakhmetov/rr_barney/raw/master/fonts/ttf/RRBarney-Rough.otf)
 
 ***
 Special thanks to Vil Akhunzyanov for contribution.
