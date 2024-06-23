@@ -22,6 +22,7 @@ RR Barney has been distributed under the SIL Open Font License, Version 1.1. Thi
 
 ## Download
 You can download the fonts directly by clicking the buttons below:
+
 [![Download TTF](https://img.shields.io/badge/Download-TTF-blue)](https://github.com/ruzvaliakhmetov/rr_barney/raw/master/fonts/ttf/RRBarney-Rough.ttf)
 [![Download OTF](https://img.shields.io/badge/Download-OTF-blue)](https://github.com/ruzvaliakhmetov/rr_barney/raw/master/fonts/otf/RRBarney-Rough.otf)
 
